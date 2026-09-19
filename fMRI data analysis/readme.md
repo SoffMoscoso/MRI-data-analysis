@@ -1,4 +1,8 @@
 > Basado en [akcarsten]([https://github.com/akcarsten](https://github.com/akcarsten/fMRI_data_analysis/tree/master)) (MIT License)
+
+"organization and visualization of fMRI data. Python code explaining how to display structural and functional fMRI data"
+
+
 > Nota: el código está inspirado en un estudio publicado por el autor, pero no tuve 
 acceso al paper (contenido de pago). Las explicaciones de este notebook se basan 
 en la interpretación del código y en documentación pública disponible sobre 
