@@ -8,13 +8,13 @@ Study and adaptation of the notebook
 of **mazennmohamed** (Kaggle), published under license:
 [Apache 2.0](http://www.apache.org/licenses/LICENSE-2.0).
 
-##changes made
+### hanges made
 Comments and explanations. ideas and conclutions.
 >I didn't run the completed code. I studied the notebook with the pre-loaded results.
 
-## Dataset
+### Dataset
 [Brain Tumor MRI Dataset] : https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset
 
-## Licencia
+### Licencia
 Distributed under Apache 2.0. Ver [LICENSE].
 
