@@ -8,7 +8,7 @@ Study and adaptation of the notebook
 of **mazennmohamed** (Kaggle), published under license:
 [Apache 2.0](http://www.apache.org/licenses/LICENSE-2.0).
 
-### hanges made
+### changes made
 Comments and explanations. ideas and conclutions.
 >I didn't run the completed code. I studied the notebook with the pre-loaded results.
 
